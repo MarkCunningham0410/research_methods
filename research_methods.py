@@ -52,7 +52,7 @@ class piadslogoblack(Scene):
         title_whole.shift(DOWN*4+RIGHT*0.8)
         self.wait(0.4)  
         self.play(AnimationGroup(*animations1, lag_ratio = 0.2), AnimationGroup(*animations2,lag_ratio= 0.2))
-        self.play(AnimationGroup(*flash_animations1, lag_ratio=0), AnimationGroup(*flash_animations2, lag_ratio=0))
+        #self.play(AnimationGroup(*flash_animations1, lag_ratio=0), AnimationGroup(*flash_animations2, lag_ratio=0))
         self.play(FadeIn(title_whole))
         self.wait(2)
 
