@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Dan/Documents/GitHub/research_methods/media/videos/transformational_optics/480p15/partial_movie_files/transformation_optic/3163782288_1971398645_3872811103.mp4'
-file 'file:C:/Users/Dan/Documents/GitHub/research_methods/media/videos/transformational_optics/480p15/partial_movie_files/transformation_optic/2201830969_3612063034_3872811103.mp4'
-file 'file:C:/Users/Dan/Documents/GitHub/research_methods/media/videos/transformational_optics/480p15/partial_movie_files/transformation_optic/2201830969_3282660145_3771871196.mp4'
-file 'file:C:/Users/Dan/Documents/GitHub/research_methods/media/videos/transformational_optics/480p15/partial_movie_files/transformation_optic/2201830969_3493041802_2979372445.mp4'
