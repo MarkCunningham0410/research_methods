@@ -1,1 +1,0 @@
-manim -pql transformational_optics.py GridWarp
