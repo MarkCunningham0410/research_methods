@@ -1,1 +1,1 @@
-manim -pql transformational_optics.py GridWarp
+manim -pql transformational_optics.py GridWarp -r 1200,1200
