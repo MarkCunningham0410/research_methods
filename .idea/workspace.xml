@@ -1,27 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bdf8efa-c4d9-4704-a544-ccd104932937" name="Default Changelist" comment="" />
+    <list default="true" id="9bdf8efa-c4d9-4704-a544-ccd104932937" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rainbow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/research_methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/research_methods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformational_optics.py" beforeDir="false" afterPath="$PROJECT_DIR$/transformational_optics.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/transformational_optics.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="21ew4Q3NMqq3TaSYiInTA8fj4Vz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/script.bat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Shell Script.Unnamed">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.True mac">
+    <configuration name="rainbow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="research_methods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rainbow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="transformational_optics" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="research_methods" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,18 +95,63 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Rough mac" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/venv2/launch.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="True mac" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/venv2/launch_full.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/venv/script.bat" />
       <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
       <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.transformational_optics" />
       <item itemvalue="Shell Script.Unnamed" />
+      <item itemvalue="Shell Script.Rough mac" />
+      <item itemvalue="Shell Script.True mac" />
+      <item itemvalue="Python.rainbow" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rainbow" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,54 +166,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="143" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638316437783">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state x="143" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.733@0.0.1376.733" timestamp="1638316437783" />
-    <state width="683" height="438" key="DebuggerActiveHint" timestamp="1638485818806">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="683" height="438" key="DebuggerActiveHint/0.0.1376.733@0.0.1376.733" timestamp="1638485818806" />
-    <state x="468" y="122" key="FileChooserDialogImpl" timestamp="1638316436586">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state x="468" y="122" key="FileChooserDialogImpl/0.0.1376.733@0.0.1376.733" timestamp="1638316436586" />
-    <state width="1355" height="225" key="GridCell.Tab.0.bottom" timestamp="1638567286465">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.0.bottom/0.0.1376.733@0.0.1376.733" timestamp="1638567286465" />
-    <state width="1355" height="225" key="GridCell.Tab.0.center" timestamp="1638567286462">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.0.center/0.0.1376.733@0.0.1376.733" timestamp="1638567286462" />
-    <state width="1355" height="225" key="GridCell.Tab.0.left" timestamp="1638567286461">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.0.left/0.0.1376.733@0.0.1376.733" timestamp="1638567286461" />
-    <state width="1355" height="225" key="GridCell.Tab.0.right" timestamp="1638567286465">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.0.right/0.0.1376.733@0.0.1376.733" timestamp="1638567286465" />
-    <state width="1355" height="225" key="GridCell.Tab.1.bottom" timestamp="1638567286469">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.1.bottom/0.0.1376.733@0.0.1376.733" timestamp="1638567286469" />
-    <state width="1355" height="225" key="GridCell.Tab.1.center" timestamp="1638567286467">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.1.center/0.0.1376.733@0.0.1376.733" timestamp="1638567286467" />
-    <state width="1355" height="225" key="GridCell.Tab.1.left" timestamp="1638567286467">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.1.left/0.0.1376.733@0.0.1376.733" timestamp="1638567286467" />
-    <state width="1355" height="225" key="GridCell.Tab.1.right" timestamp="1638567286468">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state width="1355" height="225" key="GridCell.Tab.1.right/0.0.1376.733@0.0.1376.733" timestamp="1638567286468" />
-    <state x="197" y="9" key="SettingsEditor" timestamp="1638314890412">
-      <screen x="0" y="0" width="1376" height="733" />
-    </state>
-    <state x="197" y="9" key="SettingsEditor/0.0.1376.733@0.0.1376.733" timestamp="1638314890412" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
